@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, there! It's Ayushi Anand. I am a third year B-Tech student.<br>I love coffee, rom-coms and data ;)  <br>🔭 I’m currently working on projects in Machine Learning and Data Science.<br>👯 I’m looking to collaborate on projects involving Data Analytics and Big Data.<br>⚡ Fun fact about me is that I have no fun fact :D<br>
+Hi, there! It's Ayushi Anand. I am a final year B-Tech student.<br>I love coffee, rom-coms and data ;)  <br>🔭 I’m currently working on projects in Machine Learning and Data Science.<br>👯 I’m looking to collaborate on projects involving Data Analytics and Big Data.<br>⚡ Fun fact about me is that I have no fun fact :D<br>
 
 
 ## 🌐 Socials:
